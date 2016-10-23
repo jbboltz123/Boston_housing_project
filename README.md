@@ -10,13 +10,9 @@ This project requires Python 2.7 and the following Python libraries installed:
 
 In addition, you will need to be able to run an iPython Notebook to complete this project.
 
-## Code
-
-Template code is provided in the `boston_housing.ipynb` notebook file. While some code has already been implemented to get you started, you will need to implement additional functionality when requested throughout the notebook.
-
 ## Run
 
-In a terminal/command window, go to the top-level project directory `boston_housing/` (that contains this README). Then run:
+In a terminal/command window, go to the top-level directory containing your `boston_housing.ipynb` file (that also contains this README). Then run:
 
 ```ipython notebook boston_housing.ipynb```
 
