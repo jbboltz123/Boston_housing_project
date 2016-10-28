@@ -8,7 +8,8 @@ This project requires Python 2.7 and the following Python libraries installed:
 - [NumPy](http://www.numpy.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
-In addition, you will need to be able to run an iPython Notebook to complete this project.
+In addition, you will need to be able to run an iPython Notebook to complete this project. A helpful platform that contains iPython is 
+Anaconda which contains a number of popular python data science packages as well.
 
 ## Run
 
